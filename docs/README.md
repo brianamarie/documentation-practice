@@ -1,3 +1,3 @@
 # OH hello
 
-- [Contributing](/contributing.html)
+- [Contributing]({{site.baseurl}}/contributing.html)
