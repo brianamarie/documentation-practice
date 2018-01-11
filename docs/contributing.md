@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Contributing
-permalink: documentation-practice/contributing.html
+permalink: documentation-practice/docs/contributing.html
 
 ---
 
