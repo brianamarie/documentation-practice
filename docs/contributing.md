@@ -1,6 +1,5 @@
 ---
 title: Contributing
-layout: docs
 permalink: contributing.html
 ---
 
