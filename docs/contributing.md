@@ -1,6 +1,6 @@
 ---
 title: Contributing
-permalink: contributing.html
+permalink: /docs/contributing.html
 ---
 
 # How to contribute
