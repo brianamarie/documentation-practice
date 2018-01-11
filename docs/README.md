@@ -1,4 +1,4 @@
 
 OH hello
 
-- [Contributing](/contributing.html)
+- [Contributing](documentation-practice/docs/contributing.html)
