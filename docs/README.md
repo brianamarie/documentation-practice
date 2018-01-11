@@ -1,6 +1,5 @@
 ---
 title: Documentation Practice
-layout: docs
 ---
 
 # OH hello
