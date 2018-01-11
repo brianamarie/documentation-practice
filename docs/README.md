@@ -1,6 +1,7 @@
 ---
-title: Welcome
 layout: docs
+title: Welcome
+
 ---
 
 # OH hello
