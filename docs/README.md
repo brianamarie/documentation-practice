@@ -1,4 +1,8 @@
+---
+title: Documentation Practice
+layout: docs
+---
 
-OH hello
+# OH hello
 
-- [Contributing](documentation-practice/docs/contributing.html)
+- [Contributing](/docs/contributing.html)
