@@ -1,3 +1,7 @@
+---
+permalink: contributing/
+---
+
 # How to contribute
 
 - Do this
